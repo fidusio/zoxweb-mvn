@@ -186,6 +186,13 @@
                 <version>${javax-mail.version}</version>
                 <scope>provided</scope>
             </dependency>
+            
+            <dependency>
+			  <groupId>javax.cache</groupId>
+			  <artifactId>cache-api</artifactId>
+			  <version>${javax-cache.version}</version>
+			  <scope>provided</scope>
+			</dependency>
 
         </dependencies>
 

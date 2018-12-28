@@ -28,7 +28,6 @@
         <javax-mail.version>1.6.1</javax-mail.version>
         <jdk.version>1.8</jdk.version>
         <jsoup.version>1.11.3</jsoup.version>
-        <junit.version>4.12</junit.version>
         <mongo.version>3.9.1</mongo.version>
         <org.ehcache.version>3.5.2</org.ehcache.version> 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -90,12 +89,7 @@
 
     <dependencyManagement>
         <dependencies>
-            <dependency>
-                <groupId>junit</groupId>
-                <artifactId>junit</artifactId>
-                <version>${junit.version}</version>
-                <scope>test</scope>
-            </dependency>
+           
 
 
             <dependency>

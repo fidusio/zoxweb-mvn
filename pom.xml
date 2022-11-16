@@ -15,12 +15,6 @@
     <packaging>pom</packaging>
     <name>zoxweb-mvn</name>
 
-    <properties>
-
-        <slf4j.version>2.0.3</slf4j.version>
-    <!--        <zoxweb-shiro.version>1.0.0</zoxweb-shiro.version> -->
-    </properties>
-
     <build>
         <directory>target</directory>
         <resources>

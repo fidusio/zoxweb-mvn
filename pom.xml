@@ -121,21 +121,21 @@
             <dependency>
                 <groupId>org.apache.shiro</groupId>
                 <artifactId>shiro-core</artifactId>
-                <version>${apache-shiro.version}</version>
+                <version>${apache.shiro.version}</version>
                 <scope>provided</scope>
             </dependency>
 
             <dependency>
                 <groupId>org.apache.shiro</groupId>
                 <artifactId>shiro-web</artifactId>
-                <version>${apache-shiro.version}</version>
+                <version>${apache.shiro.version}</version>
                 <scope>provided</scope>
             </dependency>
             <!--
             <dependency>
                 <groupId>org.apache.shiro</groupId>
                 <artifactId>shiro-servlet-plugin</artifactId>
-                <version>${apache-shiro.version}</version>
+                <version>${apache.shiro.version}</version>
             </dependency>
             -->
             <dependency>
